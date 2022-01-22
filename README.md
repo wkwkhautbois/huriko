@@ -65,10 +65,10 @@ void Main()
 必要ライブラリ
 
 - OpenSiv3D v0.6.3 [https://github.com/Siv3D/OpenSiv3D](https://github.com/Siv3D/OpenSiv3D)
-  - コンパイルには事前にSDKインストールが必須
    
 
-OpenSiv3D SDKをインストール後に、Visual Studio 2022で`Huriko.sln`を開いてください。
+OpenSiv3D SDKをインストール後に、Visual Studio 2022で新規のOpenSiv3Dプロジェクトを作成します。  
+その後、作成されたプロジェクト内のMain.cppを、このリポジトリ内のMain.cppに置き換えてください。
 
 
 参考:  
